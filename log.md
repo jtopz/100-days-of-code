@@ -19,11 +19,11 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: Jan 26, Sat
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Decided to commit to 100daysofcode to become a badAss in javascript, its frameworks and libraries and also a Full stack developer MERN & MEAN. I've gone through many exercises on FreeCodeCamp in the past and kicked it off from where i stopped in March 2017 <<Javascript>>>>>>>>. I also started the web developer bootcamp course on udemy by colt steele..
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** My goal is to get all the certificates on FCC and to also become a Fullstack Dev >>> MERN & MEAN
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
